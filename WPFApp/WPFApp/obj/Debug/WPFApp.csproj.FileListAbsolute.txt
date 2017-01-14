@@ -1,0 +1,12 @@
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\bin\Debug\WPFApp.exe.config
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\bin\Debug\WPFApp.exe
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\bin\Debug\WPFApp.pdb
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\obj\Debug\MainWindow.baml
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\obj\Debug\MainWindow.g.cs
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\obj\Debug\App.g.cs
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\obj\Debug\WPFApp.g.resources
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.Cache
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\obj\Debug\WPFApp.exe
+D:\Repozytoria\WPF-App\WPFApp\WPFApp\obj\Debug\WPFApp.pdb
