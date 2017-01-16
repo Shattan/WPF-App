@@ -94,7 +94,49 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Obrazki\" />
+    <Resource Include="Obrazki\Akrobatka.jpg" />
+    <Resource Include="Obrazki\Aktorka.jpg" />
+    <Resource Include="Obrazki\Alchemik.jpg" />
+    <Resource Include="Obrazki\Aribeth Dobra.jpg" />
+    <Resource Include="Obrazki\Aribeth Zła.jpg" />
+    <Resource Include="Obrazki\Bandyta.jpg" />
+    <Resource Include="Obrazki\Barbarzyńca.jpg" />
+    <Resource Include="Obrazki\Bard.jpg" />
+    <Resource Include="Obrazki\Celnik.jpg" />
+    <Resource Include="Obrazki\Czarownik.jpg" />
+    <Resource Include="Obrazki\Druid.jpg" />
+    <Resource Include="Obrazki\Gladiator.jpg" />
+    <Resource Include="Obrazki\Iluzjonistka.jpg" />
+    <Resource Include="Obrazki\Kapłanka.jpg" />
+    <Resource Include="Obrazki\Kat.jpg" />
+    <Resource Include="Obrazki\Księżniczka.jpg" />
+    <Resource Include="Obrazki\Kusznik.jpg" />
+    <Resource Include="Obrazki\Mag.jpg" />
+    <Resource Include="Obrazki\Morderczyni.jpg" />
+    <Resource Include="Obrazki\Mroczny Rycerz.jpg" />
+    <Resource Include="Obrazki\Najemnik.jpg" />
+    <Resource Include="Obrazki\Nieznana.jpg" />
+    <Resource Include="Obrazki\Nieznany.jpg" />
+    <Resource Include="Obrazki\Okultysta.jpg" />
+    <Resource Include="Obrazki\Palladyn.jpg" />
+    <Resource Include="Obrazki\Podróżnik.jpg" />
+    <Resource Include="Obrazki\Przywoływacz.jpg" />
+    <Resource Include="Obrazki\Rabuś.jpg" />
+    <Resource Include="Obrazki\Skrytobójczyni.jpg" />
+    <Resource Include="Obrazki\Strażnik.jpg" />
+    <Resource Include="Obrazki\Szpieg.jpg" />
+    <Resource Include="Obrazki\Tarczownik.jpg" />
+    <Resource Include="Obrazki\Uzdrowiciel.jpg" />
+    <Resource Include="Obrazki\Wdowa.jpg" />
+    <Resource Include="Obrazki\Weteran.jpg" />
+    <Resource Include="Obrazki\Wojownik.jpg" />
+    <Resource Include="Obrazki\Wróżbitka.jpg" />
+    <Resource Include="Obrazki\Włamywacz.jpg" />
+    <Resource Include="Obrazki\Zielarz.jpg" />
+    <Resource Include="Obrazki\Zmiennokształtny.jpg" />
+    <Resource Include="Obrazki\Zwiadowca.jpg" />
+    <Resource Include="Obrazki\Łowczyni.jpg" />
+    <Resource Include="Obrazki\Łucznik.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
